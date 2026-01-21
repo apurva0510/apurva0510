@@ -1,5 +1,26 @@
-# 👋🏻 Hey There! I'm Apurva!
-I’m a Computer Science major & Business minor at Michigan State University, passionate about AI, data analytics, and software development. I love working on innovative projects that blend technology, business, and sustainability to drive meaningful impact.<br><br>🔍 What I’m Working On<br>	•	🚀 FarmX – Award-winning sustainability project predicting crop yield and nitrogen levels<br>	•	📊 Data Analytics @ The Global Tech Experience @ MSU – Working with datasets from companies like DoorDash & Intel<br>	•	🏆 Hackathons – Always up for a challenge, recently won Best Sustainability Track at MHacks<br><br>🛠️ Tech Stack<br><br>💻 Languages: Python, R, SQL, Java, C/C++, ARM ASM<br>📊 Data Analytics: Excel, A/B Testing, Data Visualization<br>🤖 AI/ML: Open-source AI frameworks, Predictive Modeling<br>🌐 Web: HTML, CSS, JavaScript<br><br>🎯 Future Goals<br>	•	💡 Build AI-powered applications with real-world impact<br>	•	🎓 Pursue an MBA to bridge the gap between tech & business<br>	•	🏢 Work towards a CxO role in the future<br><br>📬 Let’s connect!<br>	•	📧 appyaggarwal40@gmail.com<br>	•	💼 https://linkedin.com/in/apurva0510
+# 👋🏻 Hey there, I’m Apurva
+
+I’m a Computer Science major and Business minor at Michigan State University, focused on building reliable software and data products. I’m especially interested in analytics engineering, applied ML, and systems that turn messy data into decisions.
+
+## 🔍 What I’m have been working on
+- 🌱 FarmX — award-winning sustainability project for crop yield and nutrient predictions (Best Sustainability Track, MHacks)
+- 🧱 Microservice backend projects — Docker Compose, Flask, service-to-service APIs, and testing-focused development
+- 🏁 Hackathons — rapid prototyping, shipping MVPs, and collaborating under time pressure
+
+## 🛠️ Tech stack
+**Languages:** Python, SQL, C/C++, Java, R, ARM64 Assembly  
+**Data:** Data modeling, ELT/ETL pipelines, data quality checks, analytics workflows  
+**Tools:** Git, Docker, Linux, Excel (Pivot Tables), A/B testing  
+**Web:** HTML, CSS, JavaScript  
+**ML:** Predictive modeling with open-source frameworks
+
+## 🎯 What I’m aiming for
+- Build production-grade data + software systems that teams actually use
+- Grow into analytics engineering and data platform work, then expand into product and strategy roles over time
+
+## 📬 Let’s connect
+- Email: appyaggarwal40@gmail.com  
+- LinkedIn: https://linkedin.com/in/apurva0510
 
 
 ## 🌐 Socials:
