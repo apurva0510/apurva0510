@@ -3,41 +3,28 @@
 I’m a Computer Science major with a Business minor at Michigan State University. I build reliable software and data products, and I’m especially into analytics engineering, applied ML, and systems that turn messy data into decisions.
 
 ## What I’m working on
-
 - 🌐 **ISA Affiliate CRM + website** — building a lightweight web app for affiliate attendance tracking, funding requests, and admin approvals
-
 - 🧱 **Backend + data systems** — microservices, Docker, APIs, testing, and automation
-
 - 🏁 **Hackathons** — rapid prototyping, shipping MVPs, and collaborating under time pressure
 
 ## Tech I use
-
 **Languages:** Python, SQL, C/C++, Java, R, ARM64 Assembly  
-
 **Data:** ETL/ELT, data modeling, data quality checks, analytics workflows  
-
 **Tools:** Git, Docker, Linux, Excel (Pivot Tables), A/B testing  
-
 **Web:** HTML, CSS, JavaScript  
-
 **ML:** scikit-learn, PyTorch, TensorFlow
 
 ## What I’m aiming for
-
 - Build production-grade systems that teams actually use
-
 - Grow into analytics engineering and data platform work, then expand into product and strategy over time
 
 ## Let’s connect
-
 - Email: **appyaggarwal40@gmail.com**
-
 - LinkedIn: **https://linkedin.com/in/apurva0510**
 
 ---
 
 ## Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/apurva0510)
 
 # 💻 Tech Stack:
