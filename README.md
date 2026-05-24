@@ -18,10 +18,6 @@ I’m a Computer Science major with a Business minor at Michigan State Universit
 - Build production-grade systems that teams actually use
 - Grow into analytics engineering and data platform work, then expand into product and strategy over time
 
-## Let’s connect
-- Email: **appyaggarwal40@gmail.com**
-- LinkedIn: **https://linkedin.com/in/apurva0510**
-
 ---
 
 ## Socials
