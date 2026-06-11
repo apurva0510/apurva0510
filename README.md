@@ -3,8 +3,10 @@
 I’m a Computer Science major with a Business minor at Michigan State University. I build reliable software and data products, and I’m especially into analytics engineering, applied ML, and systems that turn messy data into decisions.
 
 ## What I’m working on
-- 🌐 **ISA Affiliate CRM + website** — building a lightweight web app for affiliate attendance tracking, funding requests, and admin approvals
-- 🧱 **Backend + data systems** — microservices, Docker, APIs, testing, and automation
+
+- 📈 **Argus** — architecting a market intelligence platform with ETL pipelines, PostgreSQL, Streamlit, and automated research workflows
+- 🌐 **ISA Affiliate CRM + Website** — building a web platform for attendance tracking, funding requests, and administrative workflows
+- 🧱 **Data & Analytics Engineering** — automation, data pipelines, APIs, dashboards, and backend systems
 - 🏁 **Hackathons** — rapid prototyping, shipping MVPs, and collaborating under time pressure
 
 ## Tech I use
