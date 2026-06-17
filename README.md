@@ -31,9 +31,9 @@ Most of my work centers on turning messy data into usable software: ETL pipeline
 ### [Argus](https://github.com/apurva0510/argus)
 
 <p>
-  <img src="https://img.shields.io/github/actions/workflow/status/apurva0510/argus/ci.yml?branch=main&label=CI&style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/apurva0510/argus?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/apurva0510/argus?style=flat-square" />
+  <img alt="Argus CI status" src="https://img.shields.io/github/actions/workflow/status/apurva0510/argus/ci.yml?branch=main&label=CI&style=flat-square" />
+  <img alt="Argus last commit" src="https://img.shields.io/github/last-commit/apurva0510/argus?style=flat-square" />
+  <img alt="Argus top language" src="https://img.shields.io/github/languages/top/apurva0510/argus?style=flat-square" />
 </p>
 
 Market intelligence platform for researching AI, semiconductor, quantum, and data-center-linked companies.
