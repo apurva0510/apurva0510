@@ -11,6 +11,9 @@
   <a href="https://github.com/apurva0510">
     <img src="https://img.shields.io/badge/GitHub-apurva0510-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://apurva0510.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-apurva0510.github.io-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  </a>
 </p>
 
 ---
