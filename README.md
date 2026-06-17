@@ -20,20 +20,15 @@
 
 ## About Me
 
-I'm a Computer Science major with a Business minor at Michigan State University. I like building reliable software and data products that turn messy information into useful decisions.
+I'm a Computer Science major at Michigan State building data products, applied ML tools, and backend systems.
 
-My work is focused around:
-
-- Data engineering and analytics systems
-- Applied machine learning
-- Backend APIs and database-backed applications
-- Dashboards, automation, and decision-support tools
+Most of my work centers on turning messy data into usable software: ETL pipelines, PostgreSQL-backed apps, dashboards, scoring models, APIs, and automation workflows.
 
 ---
 
 ## Featured Projects
 
-### Argus
+### [Argus](https://github.com/apurva0510/argus)
 
 Market intelligence platform for researching AI, semiconductor, quantum, and data-center-linked companies.
 
@@ -42,7 +37,7 @@ Market intelligence platform for researching AI, semiconductor, quantum, and dat
 - Uses a 27-table warehouse with scheduled ETL for market data, filings, earnings, news, and macro data
 - Includes scoring models, thematic indices, watchlist alerts, and explainable pullback analysis
 
-### FarmX
+### [FarmX](https://github.com/apurva0510/FarmX)
 
 Applied ML tool for crop suitability and nutrient recommendations.
 
@@ -50,7 +45,7 @@ Applied ML tool for crop suitability and nutrient recommendations.
 - Deployed with Streamlit
 - Won Best Sustainability Track at MHacks 2024
 
-### Micro Foods Market
+### [Micro Foods Market](https://github.com/apurva0510/MicroFoodMarket)
 
 Dockerized backend marketplace built around service separation and authentication.
 
@@ -113,15 +108,13 @@ Dockerized backend marketplace built around service separation and authenticatio
 
 ---
 
-## What I'm Building Toward
-
-I'm focused on becoming stronger at building production-grade data systems: clean pipelines, reliable databases, useful analytics layers, and applications that people can actually use.
-
----
-
 ## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=apurva0510&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva0510&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=apurva0510&theme=github-dark-blue&hide_border=true" />
 </p>
