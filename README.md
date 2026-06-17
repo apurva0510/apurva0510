@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/apurva0510">
-    <img src="https://img.shields.io/badge/LinkedIn-apurva0510-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-apurva0510-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/apurva0510">
-    <img src="https://img.shields.io/badge/GitHub-apurva0510-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-apurva0510-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://apurva0510.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-apurva0510.github.io-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-apurva0510.github.io-2B6CB0?style=flat-square" />
   </a>
 </p>
 
