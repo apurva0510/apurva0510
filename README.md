@@ -12,7 +12,7 @@
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-apurva0510.github.io-2B6CB0?style=flat-square" />
   </a>
   <a href="mailto:appyaggarwal40@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-aggarw86%40msu.edu-BB001B?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-appyaggarwal40@gmail.com-BB001B?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
