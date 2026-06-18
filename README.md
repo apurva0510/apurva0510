@@ -8,11 +8,11 @@
   <a href="https://linkedin.com/in/apurva0510">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-apurva0510-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/apurva0510">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-apurva0510-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
   <a href="https://apurva0510.github.io">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-apurva0510.github.io-2B6CB0?style=flat-square" />
+  </a>
+  <a href="mailto:appyaggarwal40@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-aggarw86%40msu.edu-BB001B?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
