@@ -20,9 +20,11 @@
 
 ## About Me
 
-I'm a Computer Science major at Michigan State building data products, applied ML tools, and backend systems.
+I'm a Computer Science major at Michigan State building software at the intersection of data engineering, backend systems, and applied AI.
 
-Most of my work centers on turning messy data into usable software: ETL pipelines, PostgreSQL-backed apps, dashboards, scoring models, APIs, and automation workflows.
+I like projects where messy data becomes something useful: ETL pipelines, PostgreSQL-backed apps, dashboards, scoring systems, APIs, automation workflows, and ML-powered tools.
+
+Start with [Argus](https://github.com/apurva0510/argus), my most complete data product.
 
 ---
 
@@ -60,7 +62,16 @@ Dockerized backend marketplace built around service separation and authenticatio
 
 ---
 
-## Tech Stack
+## Currently Working On
+
+- Building stronger data products with Python, PostgreSQL, and Streamlit
+- Deepening my backend and data engineering skills
+- Improving project documentation, testing, CI, and deployment quality
+- Exploring applied AI workflows that make real work faster or easier
+
+---
+
+## Tools I Use Most
 
 ### Languages
 
@@ -124,3 +135,13 @@ Dockerized backend marketplace built around service separation and authenticatio
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=apurva0510&theme=github-dark-blue&hide_border=true" />
 </p>
+
+---
+
+## Contact
+
+I'm open to software engineering, data engineering, and AI engineering internship/new-grad conversations.
+
+- Portfolio: [apurva0510.github.io](https://apurva0510.github.io)
+- LinkedIn: [linkedin.com/in/apurva0510](https://linkedin.com/in/apurva0510)
+- Email: [aggarw86@msu.edu](mailto:appyaggarwal40@gmail.com)
