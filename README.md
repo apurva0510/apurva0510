@@ -144,4 +144,4 @@ I'm open to software engineering, data engineering, and AI engineering internshi
 
 - Portfolio: [apurva0510.github.io](https://apurva0510.github.io)
 - LinkedIn: [linkedin.com/in/apurva0510](https://linkedin.com/in/apurva0510)
-- Email: [aggarw86@msu.edu](mailto:appyaggarwal40@gmail.com)
+- Email: [appyaggarwal40@gmail.com](mailto:appyaggarwal40@gmail.com)
