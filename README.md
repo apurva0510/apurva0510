@@ -140,7 +140,7 @@ Dockerized backend marketplace built around service separation and authenticatio
 
 ## Contact
 
-I'm open to software engineering, data engineering, and AI engineering internship/new-grad conversations.
+I'm open to software engineering, data engineering, and AI engineering new-grad conversations.
 
 - Portfolio: [apurva0510.github.io](https://apurva0510.github.io)
 - LinkedIn: [linkedin.com/in/apurva0510](https://linkedin.com/in/apurva0510)
