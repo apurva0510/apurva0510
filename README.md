@@ -40,10 +40,11 @@ Start with [Argus](https://github.com/apurva0510/argus), my most complete data p
 
 Market intelligence platform for researching AI, semiconductor, quantum, and data-center-linked companies.
 
-- Tracks 55 companies across AI infrastructure themes
+- Tracks 53 companies across AI infrastructure themes
 - Built with Python, Streamlit, PostgreSQL, SQLAlchemy, and GitHub Actions
-- Uses a 27-table warehouse with scheduled ETL for market data, filings, earnings, news, and macro data
-- Includes scoring models, thematic indices, watchlist alerts, and explainable pullback analysis
+- Uses a 33-table data model with scheduled pipelines for market data, SEC filings, earnings, news, and macroeconomic indicators
+- Includes peer-relative valuation, bull/bear thesis tracking, thematic indices, watchlist alerts, and explainable opportunity scoring
+- Backtests signals across 5D, 20D, and 60D forward returns and analyzes earnings and SEC-filing catalyst reactions
 
 ### [FarmX](https://github.com/apurva0510/FarmX)
 
