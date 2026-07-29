@@ -46,6 +46,22 @@ Market intelligence platform for researching AI, semiconductor, quantum, and dat
 - Includes peer-relative valuation, bull/bear thesis tracking, thematic indices, watchlist alerts, and explainable opportunity scoring
 - Backtests signals across 5D, 20D, and 60D forward returns and analyzes earnings and SEC-filing catalyst reactions
 
+### [Pykno](https://github.com/apurva0510/pykno)
+
+<p>
+  <img alt="Pykno CI status" src="https://img.shields.io/github/actions/workflow/status/apurva0510/pykno/ci.yml?branch=main&label=CI&style=flat-square" />
+  <img alt="Pykno latest release" src="https://img.shields.io/github/v/release/apurva0510/pykno?style=flat-square" />
+  <img alt="Pykno license" src="https://img.shields.io/github/license/apurva0510/pykno?style=flat-square" />
+</p>
+
+Local-first PDF compressor for reducing image-heavy files without redrawing their pages.
+
+- Preserves text, vectors, links, forms, annotations, outlines, metadata, and page geometry
+- Uses pikepdf/QPDF and Pillow to resize raster images based on their effective rendered DPI
+- Handles shared images and images nested in Form XObjects, with a guarded macOS Quartz fallback
+- Includes a configurable Finder Quick Action for right-click compression
+- Tested on macOS and Linux across Python 3.11–3.13
+
 ### [FarmX](https://github.com/apurva0510/FarmX)
 
 Applied ML tool for crop suitability and nutrient recommendations.
