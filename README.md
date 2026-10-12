@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Apurva Aggarwal</h1>
 
 <p align="center">
-  Computer Science @ Michigan State • Business Minor • Data Products • Analytics Engineering • Applied ML
+  Computer Science + Business @ Michigan State • May 2027 • Data Products & Full-Stack Software
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
 
 ## About Me
 
-I'm a Computer Science major at Michigan State building software at the intersection of data engineering, backend systems, and applied AI.
+I'm a Computer Science major with a Business minor at Michigan State, graduating in May 2027. I build data products, full-stack platforms, and applied AI tools for real users.
 
-I like projects where messy data becomes something useful: ETL pipelines, PostgreSQL-backed apps, dashboards, scoring systems, APIs, automation workflows, and ML-powered tools.
+My work spans a market research app used daily by my dad, a local Gemma research assistant, and deployed platforms for SpartaHack and MSU's International Students Association. I focus on data quality, server-enforced permissions, useful interfaces, and tests that check actual behavior.
 
-Start with [Argus](https://github.com/apurva0510/argus), my most complete data product.
+Start with [Argus](https://github.com/apurva0510/argus) for data engineering, [Argus Friend Brief](https://github.com/apurva0510/argus-friend-brief) for applied AI, or [SpartaHack](https://spartahack.com) for full-stack work.
 
 ---
 
@@ -45,6 +45,33 @@ Market intelligence platform for researching AI, semiconductor, quantum, and dat
 - Uses a 33-table data model with scheduled pipelines for market data, SEC filings, earnings, news, and macroeconomic indicators
 - Includes peer-relative valuation, bull/bear thesis tracking, thematic indices, watchlist alerts, and explainable opportunity scoring
 - Backtests signals across 5D, 20D, and 60D forward returns and analyzes earnings and SEC-filing catalyst reactions
+- Built for a daily family research workflow; behavioral tests and PostgreSQL-backed CI check the data and application paths
+
+### [Argus Friend Brief](https://github.com/apurva0510/argus-friend-brief)
+
+A research companion that turns Argus company data into plain-language, evidence-linked briefs using Gemma through Ollama.
+
+- Runs inference locally over a sanitized research snapshot
+- Validates citation IDs, attempts one repair, and rejects responses that still fail validation
+- Real-model testing exposed citation failures missed by mocked tests, leading to a revised evidence format
+- [Hosted preview](https://argus-friend-brief.streamlit.app/) shows saved, citation-validated examples; live generation runs locally
+
+### [SpartaHack Platform](https://spartahack.com)
+
+A Next.js, TypeScript, and Convex platform supporting multiple student-run events, built as SpartaHack Co-Director.
+
+- Connects participant applications, event dashboards, teams, project submissions, check-in, judging, and organizer operations
+- Enforces event isolation, department-scoped staff permissions, and workflow windows in the backend
+- Uses durable communication jobs with retries and duplicate-safe recovery
+- Translates operational requirements into staged implementation tasks and regression checks for authorization and event boundaries
+
+### [MSU ISA Platform](https://msuisa.org)
+
+A deployed Next.js, TypeScript, and Supabase platform built as ISA's Director of Technical Affairs.
+
+- Brings public events, registration, affiliate attendance, funding requests, and staff administration into one system
+- Implements server-enforced permissions, organization isolation, conflict-of-interest rules, and audit records
+- Tests duplicate-safe workflows and automates releases and PostgreSQL migrations through CI/CD
 
 ### [Pykno](https://github.com/apurva0510/pykno)
 
@@ -69,6 +96,7 @@ Applied ML tool for crop suitability and nutrient recommendations.
 - Built Random Forest models using soil and weather inputs
 - Deployed with Streamlit
 - Won Best Sustainability Track at MHacks 2024
+- [Hackathon submission](https://devpost.com/software/farmx-zpw0yq)
 
 ### [Micro Foods Market](https://github.com/apurva0510/MicroFoodMarket)
 
@@ -81,10 +109,10 @@ Dockerized backend marketplace built around service separation and authenticatio
 
 ## Currently Working On
 
-- Building stronger data products with Python, PostgreSQL, and Streamlit
-- Deepening my backend and data engineering skills
-- Improving project documentation, testing, CI, and deployment quality
-- Exploring applied AI workflows that make real work faster or easier
+- Maintaining SpartaHack's multi-event platform and preparing participant and organizer workflows for upcoming events
+- Expanding ISA's event and affiliate operations at [msuisa.org](https://msuisa.org)
+- Improving Argus research workflows, pipeline reliability, and behavioral verification
+- Evaluating local-model outputs against their source evidence
 
 ---
 
@@ -98,6 +126,7 @@ Dockerized backend marketplace built around service separation and authenticatio
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
@@ -108,14 +137,18 @@ Dockerized backend marketplace built around service separation and authenticatio
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 ### Backend & Databases
 
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />
+  <img alt="Convex" src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
@@ -159,6 +192,6 @@ Dockerized backend marketplace built around service separation and authenticatio
 
 I'm open to software engineering, data engineering, and AI engineering new-grad conversations.
 
-- Portfolio: [apurva0510.github.io](https://apurva0510.github.io)
+- Portfolio: [apaggarwal.com](https://apaggarwal.com)
 - LinkedIn: [linkedin.com/in/apurva0510](https://linkedin.com/in/apurva0510)
 - Email: [appyaggarwal40@gmail.com](mailto:appyaggarwal40@gmail.com)
